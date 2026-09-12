@@ -1,4 +1,4 @@
 streamlit
-python app_3.py
+python
 pandas
 numpy
